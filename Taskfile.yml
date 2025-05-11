@@ -68,7 +68,7 @@ dotenv:
   - .env
 
 vars:
-  PROJECT_NAME: zsh-plugin-template
+  PROJECT_NAME: zsh-ghostty
   ORGANIZATION: hadenlabs
   USER: ubuntu
   DOCKER_PLATFORM: linux/amd64

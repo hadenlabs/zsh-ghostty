@@ -2266,7 +2266,7 @@ wheels = [
 ]
 
 [[package]]
-name = "zsh-plugin-template"
+name = "zsh-ghostty"
 version = "0.0.0"
 source = { virtual = "." }
 dependencies = [
