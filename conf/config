@@ -1,0 +1,19 @@
+# Fonts
+font-family = "FiraCode Nerd Font"
+font-family-bold = "FiraCode Nerd Font"
+font-size = 20
+adjust-underline-position = 4
+
+# Mouse
+mouse-hide-while-typing = true
+# mouse-scroll-multiplier = 1
+
+
+# Theme
+theme = catppuccin-macchiato
+cursor-invert-fg-bg = true
+background-opacity = 0.9
+
+
+# Other
+copy-on-select = clipboard
