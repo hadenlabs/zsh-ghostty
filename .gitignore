@@ -561,6 +561,7 @@ bin
 .secrets
 public
 TMP_CHANGELOG.md
+.task
 .terraform.lock.hcl
 build
 .task
@@ -574,4 +575,6 @@ build
 .pmd
 vendor
 !uv.lock
+/.react-router/
+.dev.vars
 
